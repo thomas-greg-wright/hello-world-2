@@ -1,2 +1,4 @@
 # hello-world-2
 I am doing this github tutorial again to remember how to create a github repository
+My name is Thomas Wright and I am trying to relearn how to use the github repository after creating a github account and repository about a year or two ago. I plan to use this repository to hold any Google App Script projects I intend to develop using the Google Apps Starter Kit developed and introduced by Amit Agarwal on his "Digital Inspiration" website where he posted an article on 2020-08-31 entitled "Google Apps Script for Developers". It my intention to use this starter kit to help develop my own Google App Script projects using the software that he has bundle together for use in Visual Studio.
+The changes I have maded to the main branch is simply updating the explanation for why I am interested in creating a github repository and that I am using this exercisse to to understand how to access any projects I will create in the future.
